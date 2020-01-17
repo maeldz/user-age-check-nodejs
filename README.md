@@ -1,2 +1,18 @@
-# user-age-check-nodejs
-Checks whether the age entered is greater than or less than 18.
+# :underage: user-age-check-nodejs
+
+## :wrench: Running the project
+
+- Clone this repository.
+- Install all dependencies using the command `yarn`.
+- run `yarn start`.
+
+## :fire: Used technologies
+
+- NodeJS
+- Express
+- Nunjucks
+- Other Node libs.
+
+## :man: Contributors
+
+- @maeldz
